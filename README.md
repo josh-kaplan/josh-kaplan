@@ -2,16 +2,15 @@
 
 I am a software / systems engineer with a passion for problem solving.
 
-My professional interests revolve around building successful engineering 
-teams and all the things that influence team success, both technical and social.
+With over a decade of experience as a software engineer, I thrive at the 
+intersection system architecture, low-level engineering, and strategic 
+leadership  to solve impactful problems.
 
-With over a decade of experience building engineering teams, my technical 
-expertise in software and digital engineering focuses on DevOps, 
-Agile-based methodologies, and applying systems engineering and architecture 
-best practices to create systems that balance reliability, performance, and 
-maintainability.
+I like cloud and space. I've worked as software and systems engineer in 
+aerospace, cloud, fintech, and startups, which has given me a breadth 
+of technical, system, and management knowledge. 
 
-More at [jdkaplan.com](https://jdkaplan.com)
+More about me at [jdkaplan.com](https://jdkaplan.com)
 
 
 <!--
