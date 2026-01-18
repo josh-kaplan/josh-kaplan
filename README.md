@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi
 
 I am a software / systems engineer with a passion for problem solving.
 
@@ -11,6 +11,8 @@ aerospace, cloud, fintech, and startups, which has given me a breadth
 of technical, system, and management knowledge. 
 
 More about me at [jdkaplan.com](https://jdkaplan.com)
+
+∭
 
 
 <!--
